@@ -6,14 +6,14 @@
   </head>
   <body>
     <script>
-      function testJS() {
-        document.write( '<p>testJS() executed</p>' );
+      function testJS(param) {
+        document.write( '<p>testJS() executed, param = ' + param + '</p>' );
         document.body.style.backgroundColor = '#9999ff';
       }
 
-      function testJS2() {
+      function testJS2(param) {
         document.body.style.backgroundColor = '#99ff99';
-        document.write( '<p>testJS2() executed</p>' );
+        document.write( '<p>testJS2() executed, param = ' + param + '</p>' );
       }
 
     //   alert('Hello World!');
