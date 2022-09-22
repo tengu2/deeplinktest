@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+            "appID": "5N74H55FH4.jp.afterservice.my-page.deb",
+            "paths": ["*"]
+            }
+        ]
+    }   
+}
