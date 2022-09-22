@@ -5,7 +5,11 @@
            {
            "appID": "5N74H55FH4.jp.afterservice.my-page.deb",
            "paths": ["*"]
-           }
+           },
+           {
+            "appID": "48J65YNMX4.jp.afterservice.my-page.deb",
+            "paths": ["*"]
+            }
        ]
    }   
 }
